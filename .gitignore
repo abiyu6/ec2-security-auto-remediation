@@ -1,0 +1,45 @@
+# Python
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+
+venv/
+.venv/
+
+# Terraform
+
+.terraform/
+*.tfstate
+*.tfstate.backup
+crash.log
+
+# VS Code
+
+.vscode/
+
+# OS
+
+.DS_Store
+Thumbs.db
+
+# Logs
+
+*.log
+
+# AWS
+
+*.pem
+*.key
+
+# Environment
+
+.env
+
+# Lambda Build
+
+dist/
+build/
